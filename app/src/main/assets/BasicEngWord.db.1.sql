@@ -1,0 +1,5 @@
+CREATE TABLE dic (
+    _id INTEGER PRIMARY KEY AUTOINCREMENT,
+     eng TEXT,
+     han TEXT
+ );
